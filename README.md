@@ -18,3 +18,4 @@ Range: Typically from **0.0 to 1.0**.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file and add your OpenAI API Key: `OPENAI_API_KEY=sk-...`
 4. Run the code: `python app.py`
+<img width="1920" height="1080" alt="Screenshot 2026-07-01 102739" src="https://github.com/user-attachments/assets/26c01a60-155e-42a8-91e6-684118442b6c" />
