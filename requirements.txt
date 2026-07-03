@@ -1,0 +1,14 @@
+langchain
+llama-index
+llama-index-core
+llama-index-readers-file
+llama-index-llms-openai
+langchain-openai
+langchain-community
+langchainhub
+openai
+tiktoken
+faiss-cpu
+pypdf
+gradio
+python-dotenv
